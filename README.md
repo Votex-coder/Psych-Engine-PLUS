@@ -1,9 +1,18 @@
 # Psych PLUS
  PLUS version based on [Original Psych Engine](https://gamebanana.com/mods/309789), and they moddification it will be supplemented!
 
+## Credits Psych PLUS:
+* Stiki - Programmer, Main Artist.
+
+### Special Thanks
+* Goldie5 - Send correct plugin for Screenshot.
+
 ## How to install more plugins for build?:
 Read [Build Instruction](./setup/BUILDING.md)
 And use [Setup Libraries](./setup/windows.bat) and [Setup MSVC](./setup/windows-msvc.bat)
+
+ _____________________________________
+ 
 
 ## Gameplay Features:
 * Screenshot Function(Press Q to Screenshot your game)
